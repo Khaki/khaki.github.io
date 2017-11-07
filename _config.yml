@@ -1,8 +1,8 @@
 # Site settings
-title: Khaki's Story
+title: Khaki's Little Blog
 email: jiaqi228@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Geek face of Khaki can be found here.
+  Verboseness what be made here.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://khaki.github.io" # the base hostname & protocol for your site
 twitter_username: 7jii
